@@ -1,2 +1,6 @@
 # Learning_C
-just basic learning of C
+
+hi all
+just learning basic of C
+
+
